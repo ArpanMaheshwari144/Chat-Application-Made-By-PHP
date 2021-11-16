@@ -1,4 +1,4 @@
-# Chat-Application-in-PHP
+# Chat-Application
 
 ## Installation
 1. Install XAMPP.
